@@ -1,0 +1,19 @@
+{
+  "tests": [
+    {
+      "id": "t1_bug_report",
+      "prompt": "The website completely froze when I tried to click on my shopping cart.",
+      "expected": "Acknowledges the bug report and asks the user for missing details like steps to reproduce or environment information without immediately invoking the tool."
+    },
+    {
+      "id": "t2_platform_question",
+      "prompt": "How do I use a discount or promo code?",
+      "expected": "Provides exact instructions on how to apply a promo code at checkout based strictly on the FAQ."
+    },
+    {
+      "id": "t3_other_request",
+      "prompt": "Who is the CEO of your company?",
+      "expected": "Politely states that this inquiry cannot be processed directly and provides the toll-free phone line 1-800-555-0199 for human support."
+    }
+  ]
+}
