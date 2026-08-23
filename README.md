@@ -37,10 +37,10 @@ Bug reports are processed using system prompt guidance and persistent storage vi
 
 * **Flow Test Responses:**
   * **Covered Question (FAQ match):**
-    ![Flow Test Covered Question](images/flow_test1.png)
-  * **Uncovered and other Question:**
-    ![Flow Test Uncovered Question](images/flow_test2.png)
-  
+    ![Flow Test Covered Question](images/flow_test_covered.png)
+  * **Uncovered and Other Question**
+    ![Flow Test Uncovered Question](images/flow_test_uncovered.png)
+
 
 ---
 
